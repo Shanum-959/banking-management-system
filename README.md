@@ -1,5 +1,4 @@
-# banking-management-system
-Relational database design for a banking system with ERD, schema, and analytical SQL queries
+
 # Banking Management System — Database Design & SQL Analysis
 
 A relational database project simulating a multi-branch banking system, designed to practice database normalization, schema design, and analytical SQL querying.
